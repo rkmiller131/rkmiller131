@@ -15,11 +15,7 @@
   </a>
 </h1>
 
-<p dir="auto">
-  <animated-image data-catalyst style="float: right; width: 600px;">
-    ![Uploading lofiAnimationTrim.gif…]()
-  </animated-image>
-</p>
+![lofiAnimationTrim](https://github.com/rkmiller131/rkmiller131/assets/21061780/affb0a3c-667a-4b5e-890c-29af3ef2f484)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkmiller131&label=Profile%20views&color=0e75b6&style=flat" alt="rkmiller131" /> </p>
 
