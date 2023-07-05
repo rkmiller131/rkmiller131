@@ -17,11 +17,7 @@
 
 <p dir="auto">
   <animated-image data-catalyst style="float: right; width: 600px;">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://res.cloudinary.com/dnr41r1lq/image/upload/v1688567887/lofiAnimationTrim_gsbqio.gif" data-target="animated-image.originalLink">
-      <img align="right" src="https://res.cloudinary.com/dnr41r1lq/image/upload/v1688567887/lofiAnimationTrim_gsbqio.gif" alt="Lofi Animation" height="350" data-canonical-src="https://res.cloudinary.com/dnr41r1lq/image/upload/v1688567887/lofiAnimationTrim_gsbqio.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-    </a>
-    <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/9a40f6668558c8c71906836e7f978dc438332e8d66931df04abf8ba02acebcb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c4a626f743662327978764442664c30624a2f67697068792e676966" target="_blank">
+    ![Uploading lofiAnimationTrim.gif…]()
   </animated-image>
 </p>
 
