@@ -104,7 +104,7 @@
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="babel" margin-right="3"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" margin-right="3"/> 
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack" margin-right="3"/> 
   </a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" margin-right="3"/> 
