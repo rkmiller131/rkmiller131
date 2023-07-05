@@ -1,7 +1,51 @@
-<h1 align="center">Hi 👋, I'm Rachel</h1>
-<h3 align="center">A full stack developer on a journey to solve real-world problems through code.</h3>
+<h1 align="center">Hi friends, I'm Rachel</h1>
+<h3 align="center">A full stack developer on a journey to solve real-world problems through code 💡</h3>
 
-<img align="right" alt="Lofi Coding Animation" width="600" src="https://res.cloudinary.com/dnr41r1lq/image/upload/v1688567887/lofiAnimationTrim_gsbqio.gif" />
+<p dir="auto">"In university I studied Psychology and Biochemistry, which morphed into a passion for human health and nutrition. Now, in my transition to software development, I hope to integrate this passion into a company that values healthcare transparency, self-advocacy, and disease cure discovery"</p>
+
+<h1 dir="auto">
+  <a id="user-content-learn-more-about-me--" class="anchor" aria-hidden="true" href="#learn-more-about-me--">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+    </svg>
+  </a>
+  "Learn more about me: "
+  <a href="https://www.linkedin.com/in/rachel-miller-68a727bb/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkdIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+</h1>
+
+<p dir="auto">
+  <animated-image data-catalyst style="float: right; width: 600px;">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a40f6668558c8c71906836e7f978dc438332e8d66931df04abf8ba02acebcb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c4a626f743662327978764442664c30624a2f67697068792e676966" data-target="animated-image.originalLink">
+      <img align="right" src="https://camo.githubusercontent.com/9a40f6668558c8c71906836e7f978dc438332e8d66931df04abf8ba02acebcb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c4a626f743662327978764442664c30624a2f67697068792e676966" alt="Lofi Animation" height="350" data-canonical-src="https://res.cloudinary.com/dnr41r1lq/image/upload/v1688567887/lofiAnimationTrim_gsbqio.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    </a>
+    <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/9a40f6668558c8c71906836e7f978dc438332e8d66931df04abf8ba02acebcb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c4a626f743662327978764442664c30624a2f67697068792e676966" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="My Image" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/9a40f6668558c8c71906836e7f978dc438332e8d66931df04abf8ba02acebcb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c4a626f743662327978764442664c30624a2f67697068792e676966" height="350" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="600" height="350"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play My Image" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play My Image">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open My Image in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/9a40f6668558c8c71906836e7f978dc438332e8d66931df04abf8ba02acebcb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c4a626f743662327978764442664c30624a2f67697068792e676966" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span>
+  </animated-image>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkmiller131&label=Profile%20views&color=0e75b6&style=flat" alt="rkmiller131" /> </p>
 
