@@ -23,7 +23,7 @@
   </a>
 </h2>
 <h3 align="left">Frontend Development:</h3>
-<p align="left" background-color="white" padding="5">
+<p align="left" background="#fff" padding="5">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" margin-right="3"/>
   </a> 
