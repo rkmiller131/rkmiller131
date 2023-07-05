@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachel</h1>
 <h3 align="center">A full stack developer on a journey to solve real-world problems through code.</h3>
 
-<img align="right" alt="Lofi Coding Animation" width="600" src="https://res.cloudinary.com/dnr41r1lq/image/upload/v1688567887/lofiAnimationTrim_gsbqio.gif">
+<img align="right" alt="Lofi Coding Animation" width="600" src="https://res.cloudinary.com/dnr41r1lq/image/upload/v1688567887/lofiAnimationTrim_gsbqio.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkmiller131&label=Profile%20views&color=0e75b6&style=flat" alt="rkmiller131" /> </p>
 
