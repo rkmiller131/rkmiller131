@@ -36,14 +36,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkmiller131&label=Profile%20views&color=0e75b6&style=flat" alt="rkmiller131" /> </p>
 
-<p align="left" margin-top="10px" margin-bottom="10px">
+<p align="left" style="margin-top: 10px; margin-bottom: 10px;>
   <h3>About Me:</h3>
 
 - 🔭 I’m currently working on : [OldSkool Cardfight!! Vanguard - a web app where players can view cards and build decks based on a legacy playstyle](https://github.com/oldskool-vg/oldskool)
   
 - 📝 I write articles on JS fundamentals : [https://medium.com/@rkmiller131](https://medium.com/@rkmiller131)
 
-- 🌱 I’m currently learning :  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" margin-right="3px"/><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring boot" margin-right="3px"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" margin-right="3px"/>
+- 🌱 I’m currently learning :  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 3px;"/><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring boot" style="margin-right: 3px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
 - 💬 Ask me about :  **My passion project - LifeTrack Labs**
 
