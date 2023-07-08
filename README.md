@@ -17,11 +17,17 @@
 
   ![lofiAnimationTrim](https://github.com/rkmiller131/rkmiller131/assets/21061780/b9577eb9-b8bd-4425-97fc-ab94dc866afe)
 
-<h2 dir="auto">
+<h2 dir="auto" align="center">
   <a id="user-content--my-stack" class="anchor" aria-hidden="true" href="#-my-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
     📁 My stack:
   </a>
 </h2>
+
+|<h3>Testing a table</h3>| <h3>Testing two columns</h3>| <h3>Testing third column</h3> |
+|:----------------------:|:---------------------------:|:-----------------------------:|
+|Row1 value1|Row1 value2|Row1 value3|
+|Row 2 value1|Row2 Value2|Row2 value3|
+
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
