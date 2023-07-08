@@ -50,6 +50,6 @@
 </p>
 
 
-<p margin-top="10"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkmiller131&show_icons=true&locale=en&layout=compact" alt="rkmiller131" /></p>
+<p style="margin-top: 10px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkmiller131&show_icons=true&locale=en&layout=compact" alt="rkmiller131" /></p>
 
-<p margin-top="10">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkmiller131&show_icons=true&locale=en" alt="rkmiller131" /></p>
+<p style="margin-top:10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkmiller131&show_icons=true&locale=en" alt="rkmiller131" /></p>
