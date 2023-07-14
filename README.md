@@ -39,7 +39,7 @@
 <p align="left" margin-top="10" margin-bottom="10">
   <h3>About Me:</h3>
 
-- 🔭 I’m currently working on : [OldSkool Cardfight!! Vanguard - a web app where players can view cards and build decks based on a legacy playstyle](https://github.com/oldskool-vg/oldskool)
+- 🔭 I’m currently working on : [OldSkool Cardfight!! Vanguard - a web app where players can view cards and build decks based on a legacy playstyle](https://github.com/oldskool-vg/oldskoolbackend)
   
 - 📝 I write articles on JS fundamentals : [https://medium.com/@rkmiller131](https://medium.com/@rkmiller131)
 
