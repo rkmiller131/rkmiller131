@@ -1,7 +1,11 @@
 <h1 align="center">Hi friends, I'm Rachel :)</h1>
-<h3 align="center">A full stack developer on a journey to solve real-world problems through code 💡</h3>
+<h3 align="center">A web developer on a journey to solve real-world problems through code 💡</h3>
 
 <p dir="auto">In university I studied Psychology and Biochemistry, which morphed into a passion for human health and nutrition. Now, in my transition to software development, I hope to integrate this passion with a company that values healthcare transparency, self-advocacy, and disease cure discovery</p>
+
+<a href="https://webdevrachel.com/" rel="nofollow">
+  See My Portfolio
+</a>
 
 <h3 dir="auto">
   <a id="user-content-learn-more-about-me--" class="anchor" aria-hidden="true" href="#learn-more-about-me--">
