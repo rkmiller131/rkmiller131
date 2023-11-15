@@ -43,13 +43,13 @@
 <p align="left" margin-top="10" margin-bottom="10">
   <h3>About Me:</h3>
 
-- 🔭 I’m currently working on : [OldSkool Cardfight!! Vanguard - a web app where players can view cards and build decks based on a legacy playstyle](https://github.com/oldskool-vg/oldskoolbackend)
+- 🔭 I’m currently working on : [Paper Cat Games - a custom CMS using React Bricks](https://github.com/rkmiller131/cms-papercat)
   
 - 📝 I write articles on JS fundamentals : [https://medium.com/@rkmiller131](https://medium.com/@rkmiller131)
 
-- 🌱 I’m currently learning :  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 5px;"/><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring boot" style="margin-right: 5px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+- 🌱 I’m currently learning :  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 💬 Ask me about :  **My passion project - LifeTrack Labs**
+- 💬 Ask me about :  **My internship as a backend engineer!**
 
 </p>
 
