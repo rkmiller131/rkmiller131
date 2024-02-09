@@ -1,7 +1,7 @@
 <h1 align="center">Hi friends, I'm Rachel :)</h1>
 <h3 align="center">A web developer on a journey to solve real-world problems through code 💡</h3>
 
-<p dir="auto">In university I studied Psychology and Biochemistry, which morphed into a passion for human health and nutrition. Overcoming my own health challenges fueled my transition into software development, eager to use my coding skills for good. And now, as a mid level, full stack software engineer, I specialize in front-end web development using technologies like React, Next.js, Node, and more. Currently, I'm the Lead Backend Engineer at Veosaty, where I've played a crucial role in architectural decisions and optimiztion. Beyond coding, I'm into weightlifting, nutritional biochemsitry, digital art, and game design. Let's connect and talk tech, health, or anything in between! 🚀</p>
+<p dir="auto">In university I studied Psychology and Biochemistry, which morphed into a passion for human health and nutrition. Overcoming my own health challenges fueled my transition into software development, eager to use my coding skills for good. And now, as a mid level, full stack software engineer, I specialize in JavaScript technologies like React, Next.js, Node, and more. Currently, I'm a developer for Refactor Games and make games and apps in the healthcare space. Beyond coding, I'm into weightlifting, nutritional biochemsitry, digital art, and game design. Let's connect and talk tech, health, or anything in between! 🚀</p>
 
 <a href="https://webdevrachel.com/" rel="nofollow">
   See My Portfolio
