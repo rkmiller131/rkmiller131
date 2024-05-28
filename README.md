@@ -42,7 +42,7 @@
 <p align="left" margin-top="10" margin-bottom="10">
   <h3>About Me:</h3>
 
-- 🔭 I’m currently working on : [Paper Cat Games - a custom CMS using React Bricks](https://github.com/rkmiller131/cms-papercat)
+- 🔭 I’m currently working on : GirlTalk - A React Native, gamified social media app
   
 - 📝 I write articles on web dev fundamentals : [https://medium.com/@rkmiller131](https://medium.com/@rkmiller131)
 
